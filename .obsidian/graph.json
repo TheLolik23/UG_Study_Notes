@@ -1,0 +1,58 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:Matematyka",
+      "color": {
+        "a": 1,
+        "rgb": 16382065
+      }
+    },
+    {
+      "query": "path:\"Język Obcy\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16746865
+      }
+    },
+    {
+      "query": "path:Informatyka  ",
+      "color": {
+        "a": 1,
+        "rgb": 16734879
+      }
+    },
+    {
+      "query": "path:Templates  ",
+      "color": {
+        "a": 1,
+        "rgb": 13325261
+      }
+    },
+    {
+      "query": "file:\"Spis Treści\"",
+      "color": {
+        "a": 1,
+        "rgb": 2778597
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": -0.5,
+  "nodeSizeMultiplier": 1.07936197916667,
+  "lineSizeMultiplier": 3.21334228515625,
+  "collapse-forces": false,
+  "centerStrength": 0.500040690104167,
+  "repelStrength": 13.46435546875,
+  "linkStrength": 1,
+  "linkDistance": 115,
+  "scale": 0.2716896980620301,
+  "close": true
+}
