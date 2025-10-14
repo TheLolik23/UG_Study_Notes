@@ -18,5 +18,8 @@ Classes: 2 times per week
 - Homework, studying between the classes
 - Debate, projects, vlogs, presentations, workshops
 - - -
+### Students book:
+[[SpeakOut C1-C2 3rd Stud. Book.pdf]]
 ### Table of content:
 - [[English class 1]]
+- [[English class 2]]

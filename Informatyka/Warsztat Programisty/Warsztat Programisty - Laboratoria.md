@@ -14,9 +14,9 @@ type: root-note
 ###### Zadnie: Procent oceny końcowej
 - Sprawdziany 1 i 2 (pisane na kartkach): 30%
 - Projekt (2 etapy): 70%
-#### Konto w sieci Wydziału MFI:
+#### Konto w sieci Wydziału MFI(SIGMA):
 - L:sswiderski
 - H:ko4wohNg+e
 - - -
 ### Spis treści:
-- 
+- [[Warsztat Programisty - Lab 1]]

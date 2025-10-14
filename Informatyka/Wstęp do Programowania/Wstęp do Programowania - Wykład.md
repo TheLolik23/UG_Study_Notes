@@ -3,7 +3,7 @@ Date-Added: 2025-10-08T14:00:00
 Category:
   - IT
 Professor: dr Janusz Dybizbański
-ECTS:
+ECTS: 6
 Konsultacje: Pon. 10:00-12:00 Online
 MOC: "[[Informatyka Semestr I]]"
 type: root-note
