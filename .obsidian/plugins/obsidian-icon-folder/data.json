@@ -44,6 +44,5 @@
   "Temp": "LiTimer",
   "Assets": "LiLayoutDashboard",
   "Templates/Basic Note - template.md": "LiNotebookPen",
-  "Templates/Root Note - template.md": "LiNotebook",
-  "Priv": "LiLock"
+  "Templates/Root Note - template.md": "LiNotebook"
 }

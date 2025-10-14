@@ -1,5 +1,5 @@
 ---
-Date-Added:
+Date-Added: 2025-10-07T10:15:00
 Category:
   - Math
 MOC: "[[Wstęp do Matematyki - Wykład]]"
@@ -9,3 +9,4 @@ type: basic-note
 - - -
 
 
+Ekstensjalonść funktorów: funkcje 2 argumentowe

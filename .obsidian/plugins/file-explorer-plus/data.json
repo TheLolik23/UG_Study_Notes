@@ -45,13 +45,6 @@
         "type": "FILES",
         "pattern": "Język Obcy/Angielski Semestr I.md",
         "patternType": "STRICT"
-      },
-      {
-        "name": "",
-        "active": true,
-        "type": "DIRECTORIES",
-        "pattern": "Priv",
-        "patternType": "STRICT"
       }
     ],
     "frontMatter": [

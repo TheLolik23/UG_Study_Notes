@@ -26,9 +26,10 @@ not done
 ![[Informatyka Semestr I]]
 
 ### :LiTableOfContents: Inne:
+![[Temp MOC]]
 
 #### :LiBookTemplate: Templates:
-- [[Template List]]
+![[Template List]]
 
 
 

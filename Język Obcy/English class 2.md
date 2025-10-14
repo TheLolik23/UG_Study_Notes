@@ -13,11 +13,14 @@ effects -> FX
 blurry -> Mc'flurry
 through -> throw
 
-It\EAT
+IT\EAT
 SIT/SEAT
 BIT/BEAT
 THIS/THESE
 
+expanding vocabulary
+FOCOUS ON
+COAXIAL CABLE
 #### Grammar:
 I have a car.
 I have had a car for 5 years.
@@ -38,3 +41,11 @@ Goals:
 Methods:
 A -> work on your goals => (Making plans)
 B -> write the goals => (study yourself)
+
+#### Speaking Exercise (work in pairs):
+###### Ex1:
+![[English_Spekaing_ex1.png]]
+###### Ex2:
+![[English_Speakeing_ex2.png]]
+###### Ex3:
+![[English_Speaking_ex3.png]]
