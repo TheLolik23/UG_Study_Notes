@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatyka/Warsztat Programisty/Warsztat Programisty - Laboratoria.md",
+                "file": "Spis Treści.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Warsztat Programisty - Laboratoria"
+              "title": "Spis Treści"
             }
           }
         ]
@@ -120,6 +120,7 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Informatyka/Warsztat Programisty/Warsztat Programisty - Laboratoria.md",
     "Informatyka/Informatyka Semestr I.md",
     "Spis Treści.md",
     "Temp/Bandit CTF Notes.md"

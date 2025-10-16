@@ -1,9 +1,9 @@
+
 ### :LiMap: Obecny Plan:
 #### [Plan](https://inf.ug.edu.pl/plan/?grupa=1I)
 
 ### :LiBookmark: Important:
- 12 października - zapisy na WF?
- Zmiany w planie Analiza Matematyczna - Listopad?
+#### [[Read Me!]]
 
 ### :LiListChecks: TO DO:
 ```tasks
