@@ -85,7 +85,7 @@ $$(p\implies q)\iff(\neg p\implies\neg q)$$
 ###### Prawo 5:
 $$(p\land q)\implies p$$
 ###### Prawo 6:
-$$p\implies(p\lor q)$$
+$$p\implies q \iff(p\lor q)$$
 ###### Prawo 7:
 $$(p\iff q)\iff[(p\implies q)\land (p\implies q)]$$
 

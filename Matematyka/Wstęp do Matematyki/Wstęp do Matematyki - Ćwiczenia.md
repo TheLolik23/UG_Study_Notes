@@ -20,3 +20,4 @@ type:
  - - -
 ### Spis treści:
 - [[Wstęp do Matematyki - Ćw 1]]
+- [[Wstęp do Matematyki - Ćw 2]]

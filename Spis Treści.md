@@ -23,7 +23,7 @@ not done
 ![[Matematyka Semestr I]]
 
 #### :LiTerminal: Informatyka:
-![[Informatyka Semestr I]]
+To ![[Informatyka Semestr I]]
 
 ### :LiTableOfContents: Inne:
 ![[Temp MOC]]
@@ -31,6 +31,7 @@ not done
 #### :LiBookTemplate: Templates:
 ![[Template List]]
 
-
+##### Dysk na zdjęcia z zajęć:
+[Dysk Google]()
 
 

@@ -21,5 +21,7 @@ Classes: 2 times per week
 ### Students book:
 [[SpeakOut C1-C2 3rd Stud. Book.pdf]]
 ### Table of content:
+- [[Presentation Notes]]
 - [[English class 1]]
 - [[English class 2]]
+- [[English class 3]]

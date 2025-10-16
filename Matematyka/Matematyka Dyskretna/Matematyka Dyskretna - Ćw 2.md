@@ -8,7 +8,7 @@ type: basic-note
 - - -
 
 zbiory:
-![[Drawing 2025-10-10 10.19.24.excalidraw]]
+![[Zbiory.excalidraw]]
 Pojęcia funkcji:
 bijekcja -
 

@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": "#2a62e5",
     "recentlyUsedIcons": [
+      "⁉",
+      "❕",
       "LiLock",
       "LiNotebook",
-      "LiNotebookPen",
-      "LiLayoutDashboard",
-      "LiTimer"
+      "LiNotebookPen"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -44,5 +44,6 @@
   "Temp": "LiTimer",
   "Assets": "LiLayoutDashboard",
   "Templates/Basic Note - template.md": "LiNotebookPen",
-  "Templates/Root Note - template.md": "LiNotebook"
+  "Templates/Root Note - template.md": "LiNotebook",
+  "Read Me!.md": "⁉"
 }
