@@ -8,9 +8,15 @@ type: root-note
 ---
 
 ## Program:
- - 
+
+-
+
 ## Wymagania:
-- 
- - - -
+
+-
+
+---
+
 ### Spis treści:
-- 
+
+-
