@@ -2,7 +2,7 @@
 Date-Added: 2025-10-09T16:10:00
 Category:
   - Math
-MOC: "[[Analiza Matematyczna - Wykład]]"
+MOC: "[[Analiza Matematyczna - Wykłady]]"
 type: basic-note
 ---
 ## Temat:Grani ciągu

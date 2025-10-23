@@ -2,7 +2,7 @@
 Date-Added: 2025-10-03T15:24:00
 Category:
   - Math
-MOC: "[[Analiza Matematyczna - Wykład]]"
+MOC: "[[Analiza Matematyczna - Wykłady]]"
 type: basic-note
 ---
 ## Temat:
@@ -10,7 +10,7 @@ type: basic-note
 
 
 ### Notatka Główna:
-- [[Analiza Matematyczna - Wykład]]
+- [[Analiza Matematyczna - Wykłady]]
 - - -
 ## Temat:Ciągi
 ##### Data: 03-09-2025

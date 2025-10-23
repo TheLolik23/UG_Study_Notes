@@ -2,7 +2,7 @@
 Date-Added: 2025-10-08T14:16:00
 Category:
   - IT
-MOC: "[[Wstęp do Programowania - Wykład]]"
+MOC: "[[Wstęp do Programowania - Wykłady]]"
 type: basic-note
 ---
 ## Temat: Wprowadzenie

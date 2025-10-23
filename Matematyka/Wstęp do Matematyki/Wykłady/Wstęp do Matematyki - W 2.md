@@ -2,12 +2,12 @@
 Date-Added: 2025-10-14T10:15:00
 Category:
   - Math
-MOC: "[[Wstęp do Matematyki - Wykład]]"
+MOC: "[[Wstęp do Matematyki - Wykłady]]"
 type: basic-note
 ---
 ## Temat:
 - - -
-
+- [ ] Uzupełnić notatki na podstawie zdjęć z wykładu
 Funktory(16 rożnych):
 
 Nor:
