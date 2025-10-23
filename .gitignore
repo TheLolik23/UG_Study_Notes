@@ -10,8 +10,6 @@
 # Track core configuration
 !.obsidian/types.json
 !.obsidian/templates.json
-!.obsidian/graph.json
-
 
 #
 # Visual Studio Code
