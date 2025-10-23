@@ -3,8 +3,8 @@ Date-Added: 2025-10-13T10:00:00
 Category:
   - IT
 Professor: dr Mikołaj Czechlewski
-ECTS: 6
-MOC: "[[Informatyka Semestr I]]"
+ects: 6
+moc: "[[Informatyka Semestr I]]"
 type: root-note
 ---
 
