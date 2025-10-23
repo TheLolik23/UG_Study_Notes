@@ -4,7 +4,7 @@ Category:
 MOC: "[[]]"
 type: basic-note
 ---
+
 ## Temat:
-- - -
 
-
+---
