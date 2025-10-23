@@ -7,6 +7,7 @@ type: basic-note
 ---
 ## Temat:Grani ciągu
 - - -
+- [ ] Uzupełnić na podstawie notatek z wykładu
 ### Zbierzność ciągu
 Zbierzność do granicy właściwej
 

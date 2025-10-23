@@ -25,3 +25,4 @@ Classes: 2 times per week
 - [[English class 1]]
 - [[English class 2]]
 - [[English class 3]]
+- [[English class 4]]

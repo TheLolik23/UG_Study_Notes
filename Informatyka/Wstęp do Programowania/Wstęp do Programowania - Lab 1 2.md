@@ -1,11 +1,11 @@
 ---
-Date-Added: 2025-10-13T10:00:00
+Date-Added:
 Category:
   - IT
 MOC: "[[Wstęp do Programowania - Laboratoria]]"
 type: basic-note
 ---
-## Temat: Hello World - C
+## Temat:
 - - -
 
 1. Uruchom pierwszy program zgodnie z opisem 01_first.pdf. 
@@ -39,7 +39,7 @@ return 0;
     
     
 3. Na początku programu zadeklaruj zamienne w następujący sposób:  
-    >char *name1 = "Adrian";  
+    char *name1 = "Adrian";  
     int age1 = 20;  
     double height1 = 1.83;  
     char *name2 = "Ania";  
@@ -48,9 +48,9 @@ return 0;
     Napisz program, który korzystając z tych zmiennych będzie wyświetlał tabelę:  
     |Adrian              |                  20|      1.83|  
     |Ania                |                   9|      1.40|  
-    >
-    >Pierwsza i druga kolumna powinna mieć szerokość 20 znaków. Trzecia kolumna powinna mieć szerokość 10 znaków i wyświetlać liczbę z dokładnością do dwóch miejsc po przecinku.  
 
+      
+    Pierwsza i druga kolumna powinna mieć szerokość 20 znaków. Trzecia kolumna powinna mieć szerokość 10 znaków i wyświetlać liczbę z dokładnością do dwóch miejsc po przecinku.  
 ```C title:zad3.c
 # include <stdio.h>
     char *name1 = "Adrian";  

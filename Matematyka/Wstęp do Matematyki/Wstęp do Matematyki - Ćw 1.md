@@ -90,28 +90,34 @@ $$p\implies q \iff(p\lor q)$$
 $$(p\iff q)\iff[(p\implies q)\land (p\implies q)]$$
 
 
-Zapis poprzez operatory ~ v
-(p^q)<=>~(~pv~q)
-(p=>q)<=>~(p^~q)<=>~pvq
-
+##### Zapis poprzez operatory  (~ v):
+###### Zadanie:
+$$(p \land q)\iff \neg(\neg p\lor \neg q)$$
+###### Rozwiązanie:
+$$(p\implies q)\iff \neg(p\land \neg q)\iff \neg p\lor q$$
+###### ?????Zadanie:
+$$(p \iff q)\iff[(p\implies q)\land(q\implies p)]\iff[(\neg p\lor q)\land(\neg q\lor p)]$$
+###### Rozwiązanie:
 (p<=>q)<=>[(p=>q)^(p=>q)]<=>[(~pvq)^(~pvq)]
 
 (p o+ q)<=>[~(p=>q)v~(q=>p)]<=>~(q=>p^q=>p)<=>~(p<=>q)
+
 
 (p^~q)=>(qv~q) -> 1
 (pv~ ~ ~p)<=>(p v ~p) -> 1
 ~(p^~p)-> 1
 ~(p^q^r^s)<=>~(~p v ~q v ~r v ~s)<=>(~(p^q)v~(r^s))<=>((~pv~q)v(~rv~s))
 
-Kfantyfikatory:
-\forall_{xER} p(x) -> X^2 >=0 --> Dla każdego XER zdanie X^2 jest prawdziwe
+##### kwantyfikator:
+$$\forall_{x \in R}p(x) \to x^{2}=0$$
+$\forall_{xER} p(x) -> X^2 >=0$ --> Dla każdego XER zdanie X^2 jest prawdziwe
 
-\exists_{xER} p(x) -> X^2 < X --> Istnieje taki X dla którego zdanie X^2>X jest prawdziwe
+$\exists_{xER} p(x) -> X^2 < X$ --> Istnieje taki X dla którego zdanie X^2>X jest prawdziwe
 
-\forall_{xER} X^2 =X -> 1 - Zdanie prawdziwe
+$\forall_{xER} X^2 =X$ -> 1 - Zdanie prawdziwe
 
-\forall_{xER} (x<1) ^ (X^2>x)
-\forall_{xER} \forall_{yER} (y^2=x => \exists_{zER} z<5 ^ z>7)
+$\forall_{x\in R} (x<1) ^ (x^2>x)$
+$\forall_{xER} \forall_{yER} (y^2=x => \exists_{zER} z<5 ^ z>7)$
 
 \forall_{x} p(x)=>\exists_{x}
 

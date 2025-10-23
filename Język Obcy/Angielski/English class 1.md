@@ -8,7 +8,7 @@ type: basic-note
 ## Topic:Deserted Island 🏝 - Personality test
 - - -
 
- - [ ] Presentation about my passions (7-10min).📅 2025-10-16
+ - [x] Presentation about my passions (7-10min). 📅 2025-10-16 ✅ 2025-10-17
  - [x] Read the text is Failure good for you. Exercises: 2ABC pages 8&9 + p.136 ex. 1A - IDIOMS 📅 2025-10-10 ✅ 2025-10-14
 
 Words:

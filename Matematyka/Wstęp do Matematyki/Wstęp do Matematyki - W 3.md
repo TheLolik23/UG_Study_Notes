@@ -7,7 +7,7 @@ type: basic-note
 ---
 ## Temat:
 - - -
-- [ ] Uzupełnić notatki na podstawie zdjęć z wykładu
+
 Funktory(16 rożnych):
 
 Nor:

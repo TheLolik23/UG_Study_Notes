@@ -1,12 +1,16 @@
-### Notatka Główna:
-- [[Matematyka Dyskretna - Ćwiczenia]]
-- - -
-## Temat:
-##### Data: 02-10-2025
+---
+Date-Added: 2025-10-02T10:00:00
+Category:
+  - Math
+MOC: "[[Matematyka Dyskretna - Ćwiczenia]]"
+type: basic-note
+---
+
+## Temat:Wstęp do matematyki dyskretnej
 - - -
 
-Matematyka dyskretna:
-Zbiory:
+
+### Zbiory - Przykłady:
 - {0,1,2} - zbiór 3 elementowy
 - {A,B,C,...Z} - Alfabet
 - {1,2,3,4,5,6,....} = N+ - Liczby naturalne
@@ -15,8 +19,8 @@ Zbiory:
 - {...,-2,-1,0,1,2...} - Z - liczby rzeczywiste
 -  an = 2^n ,n E N
 
-Zadania:
-Twierdzenie małego Gaussa:
+### Zadania:
+##### Twierdzenie małego Gaussa:
 1+2+3+4... +n = (n*(n+1)) / 2 
 z1:
 $$
@@ -31,12 +35,14 @@ $$
 z4:
 $$ \prod_{k=-3}^{-1}(2-k)^k = (2-(-3))^{-3} \space \cdot (2-(-2))^{-2} \space \cdot (2-(-1))^{-1} = \dots
 $$
-Różnica symetryczna suma zbiorów: 
-(A-B) u (B-A) = A{O+}B
-A={1,2,4}, B={1,4,6}
-A {O+} B = {2,6}
+### Różnica symetryczna suma zbiorów (współczynnik kartezjański): 
+$$(A-B) \cup(B-A)=A\oplus B$$
+##### Przykład:
+$$A=\{ 1,2,3 \} ,B=\{ 1,4,6\}$$
+$$A\oplus B=\{ 2,6 \}$$
 
-Iloczny Kartezjański:
-AxB = {(a, b): a E A, b E B }
-AxB = {(1,1), (1,4), (1,6), (2,1), (2,4), (2,6), (4,1), (4,4), (4,6)}
-Ilość elementów Iloczynu kartezjańskiego ->Ilość elementów zbioru A * Ilość elementów zbioru B
+### Iloczny Kartezjański:
+$$AXB = \{ \{a,b  \}: a\in A,b\in B \}$$
+$$AXB=\{ (1,1) (1,4), (1,6), (2,1), (2,4), (2,6), (4,1), (4,4), (4,6) \}$$
+
+###### Ilość elementów Iloczynu kartezjańskiego ->Ilość elementów zbioru A * Ilość elementów zbioru B.

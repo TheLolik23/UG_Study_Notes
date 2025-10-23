@@ -8,4 +8,4 @@ type: basic-note
 ## Temat:Zadania
 - - -
 
-- [ ] Uzupełnić zadania ze zdjęć tablicy
+
