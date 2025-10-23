@@ -24,6 +24,10 @@
     "TQ_show_task_count": "checkbox",
     "TQ_show_tree": "checkbox",
     "TQ_show_urgency": "checkbox",
-    "Date-Added": "datetime"
+    "Professor": "text",
+    "Date-Added": "datetime",
+    "Category": "multitext",
+    "ECTS": "number",
+    "type": "multitext"
   }
 }

@@ -2,7 +2,14 @@
 #### [Plan](https://inf.ug.edu.pl/plan/?grupa=1I)
 
 ### :LiBookmark: Important:
-#### [[Read Me!]]
+ 12 października - zapisy na WF?
+ Zmiany w planie Analiza Matematyczna - Listopad?
+
+### :LiListChecks: TO DO:
+```tasks
+not done
+```
+
 # :LiCalendar: Rok 2025/26:
 
 ## :LiCalendarDays: Semestr I 
@@ -19,12 +26,10 @@
 ![[Informatyka Semestr I]]
 
 ### :LiTableOfContents: Inne:
-![[Temp MOC]]
 
 #### :LiBookTemplate: Templates:
-![[Template List]]
+- [[Template List]]
 
-##### :LiDatabase: Dysk na zdjęcia z zajęć:
-[Dysk Google](https://drive.google.com/drive/folders/1qF7yvOXIvdyynQtl51JkuuojhaVy1fqX?usp=drive_link)
+
 
 

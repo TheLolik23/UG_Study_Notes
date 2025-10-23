@@ -1,13 +1,13 @@
 [
-  "calendar",
-  "code-styler",
-  "cmdr",
-  "obsidian-excalidraw-plugin",
-  "file-explorer-plus",
-  "heatmap-calendar",
-  "homepage",
-  "obsidian-icon-folder",
   "obsidian-latex-suite",
+  "obsidian-excalidraw-plugin",
+  "code-styler",
+  "homepage",
+  "calendar",
+  "file-explorer-plus",
   "omnisearch",
-  "obsidian-tasks-plugin"
+  "cmdr",
+  "obsidian-tasks-plugin",
+  "heatmap-calendar",
+  "obsidian-icon-folder"
 ]
