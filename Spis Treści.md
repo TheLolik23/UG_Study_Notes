@@ -4,9 +4,10 @@
 
 ### :LiBookmark: Important:
 
-#### [[Read Me!]]
+12 października - zapisy na WF?
+Zmiany w planie Analiza Matematyczna - Listopad?
 
-#### LiListChecks: TODO:
+### :LiListChecks: TO DO:
 
 ![[TODO]]
 
@@ -34,7 +35,7 @@
 
 #### :LiBookTemplate: Templates:
 
-![[Template List]]
+- [[Template List]]
 
 ##### :LiDatabase: Dysk na zdjęcia z zajęć:
 
