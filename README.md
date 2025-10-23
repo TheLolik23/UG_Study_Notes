@@ -1,4 +1,4 @@
-### Tutorial - Jak robić notatki w 8 osób i tego nie rozjebać
+### Tutorial - Jak robić notatki w kilka osób i tego nie rozjebać
 
 #### Krok 1:
 
