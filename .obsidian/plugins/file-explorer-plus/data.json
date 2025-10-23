@@ -52,6 +52,20 @@
         "type": "FILES",
         "pattern": "TO DO.md",
         "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "Matematyka/Matematyka Semestr I.md",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "README.md",
+        "patternType": "STRICT"
       }
     ],
     "frontMatter": [

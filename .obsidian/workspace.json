@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "e55a2d04dcd9f880",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "5fc6b595b1705a69",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TO DO.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TO DO"
+              "title": "README"
             }
           }
         ]
@@ -99,12 +99,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TO DO.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from TO DO"
+              "title": "Outgoing links from README"
             }
           },
           {
@@ -144,11 +144,27 @@
       "graph:Open graph view": false
     }
   },
-  "active": "5fc6b595b1705a69",
+  "active": "f1a450465fd3b1c5",
   "lastOpenFiles": [
+    "Matematyka/Matematyka Semestr I.md",
+    "Matematyka/Wstęp do Matematyki/Wstęp do Matematyki - Wykład.md",
+    "Matematyka 2/Wstęp do Matematyki/Wstęp do Matematyki - Wykład 2.md",
+    "Matematyka/Wstęp do Matematyki/Wstęp do Matematyki - Ćwiczenia.md",
+    "Matematyka/Analiza Matematyczna/Analiza Matematyczna - Ćw 1.md",
+    "Matematyka 2/Wstęp do Matematyki/Wstęp do Matematyki - Ćwiczenia 2.md",
+    "Matematyka 2/Wstęp do Matematyki/Wstęp do Matematyki - Ćw 1 2.md",
+    "Matematyka 2/Matematyka Dyskretna/Matematyka Dyskretna - Ćw 1 2.md",
+    "Matematyka 2/Analiza Matematyczna/Analiza Matematyczna - Ćwiczenia 2.md",
+    "Matematyka 2/Analiza Matematyczna/Analiza Matematyczna - Ćw 1 2.md",
+    "Literatura/Matematyka/Analiza Matematyczna/Analiza_matematyczna_1_Przykłady_i_zadania.pdf",
+    "Literatura/Matematyka/Analiza Matematyczna/Analiza_matematyczna_1_definicje_twierdzenia_wzory.pdf",
+    "Informatyka/Wstęp do Programowania/Wstęp do Programowania - Lab 1.md",
+    "Informatyka/Wstęp do Programowania/Wstęp do Programowania - Wykład 2.md",
+    "Informatyka/Wstęp do Programowania/Wstęp do Programowania - Laboratoria 2.md",
+    "Informatyka/Wstęp do Programowania/Wstęp do Programowania - Lab 1 2.md",
+    "Informatyka/Wstęp do Programowania/Wstęp do Programowania - Wykład.md",
     "Spis Treści.md",
     "TO DO.md",
-    "Matematyka 2/Matematyka Semestr I.md",
     "Templates/Untitled.md",
     "Temp/Warsztat Programisty - Laboratoria OLD.md",
     "Temp/Warsztat Programisty - Lab 1 OLD.md",
@@ -162,20 +178,6 @@
     "Read Me!.md",
     "Matematyka/Analiza Matematyczna/Analiza Matematyczna - Ćwiczenia.md",
     "Temp/Temp MOC.md",
-    "Rysunki/Zbiory.excalidraw.md",
-    "Matematyka/Analiza Matematyczna/Analiza Matematyczna - Ćw 2.md",
-    "Język Obcy/Angielski Semestr I.md",
-    "Język Obcy/English class 3.md",
-    "Język Obcy/Notes/English class 2.md",
-    "Język Obcy/Notes/Presentation Notes.md",
-    "Informatyka/Warsztat Programisty/Warsztat Programisty - Laboratoria.md",
-    "Informatyka/Informatyka Semestr I.md",
-    "Matematyka/Wstęp do Matematyki/Wstęp do Matematyki - Ćw 1.md",
-    "Matematyka/Wstęp do Matematyki/Wstęp do Matematyki - Ćwiczenia.md",
-    "Matematyka/Wstęp do Matematyki/Wstęp do Matematyki - Ćw 2.md",
-    "Temp message.md",
-    "Matematyka/Wstęp do Matematyki/Wstęp do Matematyki - Wykład.md",
-    "Matematyka/Wstęp do Matematyki/Wstęp do Matematyki - W 1.md",
     "Assets/English_Speaking_ex3.png",
     "Assets/English-Speaking_ex3.png",
     "Assets/English_Spekaing_ex1.png",
@@ -184,8 +186,6 @@
     "Assets/IMG_3120 1.heic",
     "Assets/IMG_3120.heic",
     "Priv",
-    "Literatura/SpeakOut C1-C2 3rd Stud. Book.pdf",
-    "Assets/SpeakOut C1-C2 3rd Stud. Book.pdf",
     "Assets/Screenshot 2025-10-08 at 14.53.08.png",
     "Assets/Screenshot 2025-10-08 at 14.50.16.png",
     "Assets/Screenshot 2025-10-08 at 14.33.19.png",
