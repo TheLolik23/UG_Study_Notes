@@ -10,7 +10,6 @@ type: root-note
 ---
 ## Program:
  - Nauka języka **C**
- - [ ] Uzupełnić notatki z wykładów
 ## Wymagania:
 ![[Screenshot 2025-10-08 at 14.33.19.png]]
 
@@ -18,8 +17,5 @@ type: root-note
 >Logowanie do strony prowadzącego:
  - Logowanie poprzez Sigmę
  - - -
-
-## Spis treści:
+### Spis treści:
 - [[Wstęp do Programowania - W 1]]
-- [[Wstęp do Programowania - W 2]]
-- [[Wstęp do Programowania - W 3]]

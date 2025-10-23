@@ -1,5 +1,4 @@
-### Tutorial - Jak robić notatki w 8 osób i tego nie rozjebać
-
+### Tutorial - Jak robić notatki w kilka osób i tego nie rozjebać
 #### Krok 1:
 
 > Zainstaluj gita w wersji z GUI. Jeli już macie legitymację studencką to polecam Git Kraken, ale dowolny inny też będzie GIT.

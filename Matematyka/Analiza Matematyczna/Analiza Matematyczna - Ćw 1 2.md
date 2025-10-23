@@ -7,33 +7,30 @@ type: basic-note
 ---
 ## Temat:Ciągi
 - - -
-- [ ]  Uzupełnić notatkę
-#### Podstawowe działania na ciągach
 $$x_{n} = 1+(-1)^{n}$$
 $$x_{2008}= 1+(-1)^{2008} = 2$$
 $$x_{2008}= 1+(-1)^{2009} = 0$$
 
-#### Definicja silni:
 $$x_{n} = 1+2+3\dots + n = \frac{(n+1)}{2}*n$$
 
 $$x_{2008}= \frac{2008+1}{2}*2008$$
 $$x_{2009}-x_{2008}= 1+2+3\dots+2008+2009 - (1+2+3+\dots+2008) = 2009$$
 
-$$x_{n}=\frac{1}{n!}+\frac{1}{(n+1)!}\dots+\frac{1}{2n!}$$
+$$1_{n}=\frac{1}{n!}+\frac{1}{(n+1)!}\dots+\frac{1}{2n!}$$
 
-$$x_{1}=\frac{1}{1!}+\frac{1}{2!}$$
-$$x_{2}=\frac{1}{2!}+\frac{1}{3!}+\frac{1}{4!}$$
-$$x_{2n}=\frac{1}{2n!}+\frac{1}{(2n+1)!}\dots+\frac{1}{4n!}$$
-$$x_{2n}=\frac{1}{2n-1!}+\frac{1}{(2n+1)!}\dots+\frac{1}{(4n-2!)}$$
+$$1_{1}=\frac{1}{1!}+\frac{1}{2!}$$
+$$1_{2}=\frac{1}{2!}+\frac{1}{3!}+\frac{1}{4!}$$
+$$1_{2n}=\frac{1}{2n!}+\frac{1}{(2n+1)!}\dots+\frac{1}{4n!}$$
+$$1_{2n}=\frac{1}{2n-1!}+\frac{1}{(2n+1)!}\dots+\frac{1}{(4n-2!)}$$
 $$x_{2n}-x_{2n-1}= \frac{1}{2n!}+\frac{1}{(2n+1!)}+\dots+\frac{1}{(4n-1)!}+\frac{1}{(4n)!}=\frac{1}{(4n-1)!}+\frac{1}{(4n!)}-\frac{1}{(2n-1)!}$$
-###### Układ równań:
+układ równań:
 x_{1} = 1
 x_{n} = 2x_{n-1}+1, n>=2
 
 x_{2} = 2x_{1}+1 = 3
 x_{3} = 2x_{2}+1 = 7
 
-#### Badanie monotoniczności:
+badnie monotoniczności:
 $$x_{n+1}-x_{n}>0$$
 $$x_{n+1}>x_{n}$$
 $$\frac{x_{n+1}}{x_{n}}>1$$
@@ -48,7 +45,7 @@ $$
 - ciag malejący
 $$x_{n} = n-2^n$$
 $$x_{n+1}- x_{n} = n+1-2^{n+1}-(n-2^n) = 1-2^n(2-1) = 1-2^n<0$$
-###### Sprawdzenie:
+sprawdzenie:
 $$n\geq 1$$
 $$2^n\geq 2$$
 $$-2^n\leq -2$$

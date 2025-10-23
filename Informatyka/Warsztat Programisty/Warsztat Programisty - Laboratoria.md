@@ -20,3 +20,4 @@ type: root-note
 - - -
 ### Spis treści:
 - [[Warsztat Programisty - Lab 1]]
+- [[Warsztat Programisty - Lab 2]]

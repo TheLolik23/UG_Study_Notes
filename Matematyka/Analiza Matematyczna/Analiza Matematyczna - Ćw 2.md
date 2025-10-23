@@ -7,7 +7,7 @@ type: basic-note
 ---
 ## Temat:Granice Ciągów
 - - -
-
+- [ ] Dodać rozwiązanie zadania z zeszytu
 Granice ciągów:
 Piwa za zakład!
 

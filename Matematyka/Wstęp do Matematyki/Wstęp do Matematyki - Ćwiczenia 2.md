@@ -21,5 +21,3 @@ type:
 ### Spis treści:
 - [[Wstęp do Matematyki - Ćw 1]]
 - [[Wstęp do Matematyki - Ćw 2]]
-- [[Wstęp do Matematyki - Ćw 3]]
-- [[Wstęp do Matematyki - Zadania]]

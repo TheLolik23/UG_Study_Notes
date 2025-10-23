@@ -1,5 +1,5 @@
 ---
-Date-Added: 2025-10-01T08:43:00
+Date-Added:
 Category:
   - Math
 Professor: Jerzy Topp
@@ -11,7 +11,7 @@ Page: http://unixlab.iis.pwsz.elblag.pl/~j.topp/?cat=2
 ###### Uwagi:
 > Prowadzący nie udostępnia prezentacji!!!
 ## Program:
- - Karta przedmiotu
+ - 
 ## Wymagania:
 - 
  - - -

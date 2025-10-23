@@ -7,6 +7,7 @@ type: basic-note
 ---
 ## Temat:Systemy liczbowe, grafy skierowane i nieskierowane
 - - -
+- [ ] Uzupełnić notatkę o zagadnienia podane niżej
 Przykłady grafów skierowanych i nieskierowanych
 
 Przeliczanie miedzy systemami liczbowymi

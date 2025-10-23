@@ -7,7 +7,7 @@ Professor: Agnieszka Rowińska-Schwarzweller
 ECTS:
 MOC: "[[Matematyka Semestr I]]"
 ---
-- [ ] Zaliczenie ⏳ 2025-11-01
+
 ## Podstawowe informacje:
 Pokój 428 - Ćwiczenia
 
@@ -18,10 +18,9 @@ Pokój 428 - Ćwiczenia
 ## Wymagania:
 - Zaliczenia: 4 zaliczenia - minimum 50%
 - Nie jest wymagana obecność na zajęciach ani na wykładach
-- Za błędy arytmetyczne w dobrze rozpisanym zadaniu nie ma odejmowanych punktów!
+- Za błędy arytmetyczne w dobrze rozpisanym zadaniu nie ma odejmowanych punktów
 
 - - -
 ### Spis treści:
 - [[Matematyka Dyskretna - Ćw 1]]
 - [[Matematyka Dyskretna - Ćw 2]]
-- [[Matematyka Dyskretna - Ćw 3]]

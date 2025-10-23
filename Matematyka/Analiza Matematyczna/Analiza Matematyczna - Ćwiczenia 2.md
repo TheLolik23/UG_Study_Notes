@@ -11,4 +11,3 @@ type: root-note
 ### Spis treści:
 - [[Analiza Matematyczna - Ćw 1]]
 - [[Analiza Matematyczna - Ćw 2]]
-- [[Analiza Matematyczna - Ćw 3]]
