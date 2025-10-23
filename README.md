@@ -1,37 +1,34 @@
-### Tutorial - Jak robić notatki w kilka osób i tego nie rozjebać
+# Tutorial jak robić notatki w kilka osób i tego nie rozjebać
 
-#### Krok 1:
+## Przygotowanie środowiska
 
-> Zainstaluj gita w wersji z GUI. Jeli już macie legitymację studencką to polecam Git Kraken, ale dowolny inny też będzie GIT.
+1. Zainstaluj [GITa](https://git-scm.com/install/) w wersji z GUI. Jeżeli już macie legitymację studencką to polecam [Git Kraken](https://www.gitkraken.com/download), ale dowolny inny też będzie GIT.
+2. Zainstaluj [Obsidiana](https://obsidian.md/download)
+3. [Utwórz forka](https://github.com/TheLolik23/UG_Study_Notes/fork) głównego repo
+4. Klonujemy nowo utworzone repo na nasz komputer (poprzez aplikacje, która wybraliście w kroku 1)
+5. Otwieramy w Obsidianie folder z repo jako Vault
 
-#### Krok 2:
+## Informacje
 
-> Pobieramy repo na nasz komputer (poprzez aplikacje, która wybraliście w kroku 1)
+W zależności od tego czy planujecie uczestniczyć w tej inicjatywie biernie czy aktywnie musicie wybrać odpowiedni Branch.
 
-##### Informacje:
+### Dostępne branche
 
-> W zależności od tego czy planujecie uczestniczyć w tej inicjatywie musicie wybrać odpowiedni Branch.
+| Branch      | Przeznaczenie                                             |
+|-------------|-----------------------------------------------------------|
+| main        | Pełne notatki już gotowe do nauki                         |
+| to_check    | Notatki już skończone gotowe do dodania do main'a         |
+| in_progress | Notatki częściowo zrobione, jeszcze nie w pełni skończone |
 
-###### Branche:
+### Jak dodawać notatki
 
-main -> Pełne notatki już gotowe do nauki.
+Jeśli stworzyliście jakieś nowe notatki to:
 
-in_progress -> Notatki częściowo zrobione, jeszcze nie w pełni skończone.
-
-to_check -> Notatki już skończone gotowe do dodania do main'a.
-
-#### Jak dodawać notatki:
-
-> Jeśli stworzyliście jakieś nowe notatki to:
->
-> 1. Upewnijcie się że są zgodne z tym co było do teraz:
->    - są w odpowiednim folderze
->    - użyty jest odpowiedni template
->    - dane w sekcji 'properties' są wypełnione
->    - użyte linki działają i odnoszą do odpowiednich notatek
-> 2. Jeśli nie wykonaliście tego co jest napisane powyżej -> to GG bo ja będę musiał to poprawiać, więc wykonajcie krok powyżej
-> 3. **Upewnij się, że masz wybrany właściwy branch, na naszym git'cie będą tylko 3 branche:
->    main -> pełne notatki już gotowe do nauki
->    in_progress -> Notatki częściowo zrobione, notatki w tym branchu nie muszą spełniać wcześniejszych wymagań**
->    final -> notatki już skończone gotowe do dodania do naszej biblioteki -> main
-> 4. Wyślijcie pucha na Githuba. Dwa razy w tygodniu będę sprawdzał push requesty i dodawał wasze notatki.
+1. Upewnijcie się że są zgodne z tym co było do teraz:
+	- są w odpowiednim folderze
+	- użyty jest odpowiedni template
+	- dane w sekcji 'properties' są wypełnione
+	- użyte linki działają i odnoszą do odpowiednich notatek
+2. Jeśli nie wykonaliście tego co jest napisane powyżej -> to GG bo ja będę musiał to poprawiać, więc wykonajcie krok powyżej
+3. Zrób pusha commitów do twojego forka
+4. Utwórz na Githubie Pull Request do odpowiedniego brancha głównego repo. Dwa razy w tygodniu będę sprawdzał push requesty i dodawał wasze notatki.
