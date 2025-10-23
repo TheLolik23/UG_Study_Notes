@@ -1,0 +1,264 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "4509724f8bf84da7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7a7b303c61786dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Matematyka/Analiza Matematyczna/Analiza Matematyczna - Ćwiczenia.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Analiza Matematyczna - Ćwiczenia"
+            }
+          },
+          {
+            "id": "87f8e2a69b0af512",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Analiza Matematyczna - Ćw 3.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Analiza Matematyczna - Ćw 3"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c41e4c35003c06ac",
+    "type": "split",
+    "children": [
+      {
+        "id": "22eaad5231cb8b59",
+        "type": "tabs",
+        "dimension": 69.00584795321637,
+        "children": [
+          {
+            "id": "f1a450465fd3b1c5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "627bf14c29c94a0a",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "233e2b336a53371a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          }
+        ]
+      },
+      {
+        "id": "01091dd8fd5f0627",
+        "type": "tabs",
+        "dimension": 30.994152046783626,
+        "children": [
+          {
+            "id": "080fb29d168b1cae",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "pinned": true,
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 334.5
+  },
+  "right": {
+    "id": "0a6146f5b908c207",
+    "type": "split",
+    "children": [
+      {
+        "id": "519c279746b094c9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "04eb1406b804975d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Spis Treści.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Spis Treści"
+            }
+          },
+          {
+            "id": "af3f2413aedd47f6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Spis Treści.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Spis Treści"
+            }
+          },
+          {
+            "id": "d6588e39e129b510",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "fe62c78ceee2cc84",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Informatyka/Wstęp do Programowania/Wstęp do Programowania - Lab 2.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Wstęp do Programowania - Lab 2"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 284.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "switcher:Open quick switcher": true,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": true,
+      "bases:Create new base": true,
+      "graph:Open graph view": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "homepage:Open homepage": false,
+      "omnisearch:Omnisearch": false
+    }
+  },
+  "active": "87f8e2a69b0af512",
+  "lastOpenFiles": [
+    "Analiza Matematyczna - Ćw 3.md",
+    "Matematyka/Analiza Matematyczna/Analiza Matematyczna - Ćwiczenia.md",
+    "Matematyka/Analiza Matematyczna/Analiza Matematyczna - Ćw 2.md",
+    "Matematyka/Analiza Matematyczna/Analiza Matematyczna - Ćw 1.md",
+    "Spis Treści.md",
+    "Język Obcy/Angielski Semestr I.md",
+    "Język Obcy/Notes/English class 5.md",
+    "Literatura/SpeakOut C1-C2 3rd Stud. Book.pdf",
+    "Język Obcy/Notes/English class 4.md",
+    "Język Obcy/Notes/English class 3.md",
+    "Templates/Basic Note - template.md",
+    "Templates/Root Note - template.md",
+    "Informatyka/Wstęp do Programowania/Wstęp do Programowania - Wykład.md",
+    "Informatyka/Wstęp do Programowania/Wstęp do Programowania - W 3.md",
+    "Informatyka/Wstęp do Programowania/Wstęp do Programowania - W 2.md",
+    "Informatyka/Wstęp do Programowania/Wstęp do Programowania - W 1.md",
+    "Informatyka/Wstęp do Programowania/Wstęp do Programowania - Laboratoria.md",
+    "Informatyka/Wstęp do Programowania/Wstęp do Programowania - Lab 2.md",
+    "Informatyka/Wstęp do Programowania/Wstęp do Programowania - Lab 1.md",
+    "Informatyka/Warsztat Programisty/Warsztat Programisty - Lab 1.md",
+    "Informatyka/Warsztat Programisty/Warsztat Programisty - Lab 2.md",
+    "Informatyka/Warsztat Programisty/Warsztat Programisty - Laboratoria.md",
+    "Informatyka/Informatyka Semestr I.md",
+    "Temp/Temp MOC.md",
+    "Język Obcy/Notes/English class 1.md",
+    "Język Obcy/Notes/English class 2.md",
+    "TO DO.md",
+    "Temp/Temp - test base.base",
+    "Assets/English_Speaking_ex3.png",
+    "Assets/English-Speaking_ex3.png",
+    "Assets/English_Spekaing_ex1.png",
+    "Assets/English_Speakeing_ex2.png",
+    "Assets/IMG_3120 2.heic",
+    "Assets/IMG_3120 1.heic",
+    "Assets/IMG_3120.heic",
+    "Priv",
+    "Assets/SpeakOut C1-C2 3rd Stud. Book.pdf",
+    "Assets/Screenshot 2025-10-08 at 14.53.08.png",
+    "Assets/Screenshot 2025-10-08 at 14.50.16.png",
+    "Assets/Screenshot 2025-10-08 at 14.33.19.png",
+    "Assets/Screenshot 2025-10-08 at 14.59.28.png",
+    "Assets/Screenshot 2025-10-08 at 14.58.46.png",
+    "Matematyka/Wstęp do Matematyki",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "Temp",
+    "Assets/Plan_Zajęć_Semestr1.png",
+    "Matematyka/Notatki Główne"
+  ]
+}
