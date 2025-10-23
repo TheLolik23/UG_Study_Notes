@@ -8,6 +8,15 @@
 4. Klonujemy nowo utworzone repo na nasz komputer (poprzez aplikacje, która wybraliście w kroku 1)
 5. Otwieramy w Obsidianie folder z repo jako Vault
 
+### Polecane wtyczki społeczności
+
+| Wtyczka                                                                                 | Funkcjonalność                                       |
+|-----------------------------------------------------------------------------------------|------------------------------------------------------|
+| [obsidian-latex-suite](https://obsidian.md/plugins?id=obsidian-latex-suite)             | Uproszczenie używania LaTeX do zapisu matematycznego |
+| [obsidian-excalidraw-plugin](https://obsidian.md/plugins?id=obsidian-excalidraw-plugin) | Edytowanie i podgląd rysunków w Excalidraw           |
+| [code-styler](https://obsidian.md/plugins?id=code-styler)                               | Ulepszone formatowanie kodu                          |
+| [obsidian-icon-folder](https://obsidian.md/plugins?id=obsidian-icon-folder)             | Dostępność ikon                                      |
+
 ## Informacje
 
 W zależności od tego czy planujecie uczestniczyć w tej inicjatywie biernie czy aktywnie musicie wybrać odpowiedni Branch.
@@ -32,3 +41,7 @@ Jeśli stworzyliście jakieś nowe notatki to:
 2. Jeśli nie wykonaliście tego co jest napisane powyżej -> to GG bo ja będę musiał to poprawiać, więc wykonajcie krok powyżej
 3. Zrób pusha commitów do twojego forka
 4. Utwórz na Githubie Pull Request do odpowiedniego brancha głównego repo. Dwa razy w tygodniu będę sprawdzał push requesty i dodawał wasze notatki.
+
+## Leksykon pojęć
+
+- **MOC *(Map of Content)*** - notatka, która jest łącznikiem kontekstowym pomiędzy innymi notatkami
