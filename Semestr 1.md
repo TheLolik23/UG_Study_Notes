@@ -2,7 +2,7 @@
 
 ## :LiLanguages: Języki:
 
-![[Angielski Semestr I]]
+![[Angielski Semestr 1]]
 
 ## :LiDivide: Matematyka:
 

@@ -2,7 +2,7 @@
 Date-Added: 2025-10-14T08:36:00
 Category:
   - English
-MOC: "[[Angielski Semestr I]]"
+MOC: "[[Angielski Semestr 1]]"
 type: basic-note
 ---
 ## Topic: Goals

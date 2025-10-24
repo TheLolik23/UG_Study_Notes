@@ -2,7 +2,7 @@
 Date-Added: 2025-10-09T10:17:00
 Category:
   - English
-MOC: "[[Angielski Semestr I]]"
+MOC: "[[Angielski Semestr 1]]"
 type: basic-note
 ---
 ## Topic:Deserted Island 🏝 - Personality test
