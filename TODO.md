@@ -1,7 +1,3 @@
 # Lista rzeczy do zrobienia
 
-```tasks
-not done
-```
-
-https://youtu.be/Pq-vSwrJZoM?si=Vn_Lw6jhsarbfEtY
+ - [ ] Uzupełnić notatki z wykładów ze wstępu do programowania

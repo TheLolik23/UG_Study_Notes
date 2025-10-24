@@ -1,25 +1,26 @@
 ---
-Date-Added: 2025-10-08T14:00:00
-Category:
-  - IT
-Professor: dr Janusz Dybizbański
-ECTS: 6
-Konsultacje: Pon. 10:00-12:00 Online
-MOC: "[[Informatyka Semestr I]]"
-type: root-note
+lesson_type: Wykład
+professor: dr Janusz Dybizbański
+moc: "[[Wstęp do Programowania]]"
+type:
+  - Course Section MOC
 ---
-## Program:
- - Nauka języka **C**
- - [ ] Uzupełnić notatki z wykładów
-## Wymagania:
-![[Screenshot 2025-10-08 at 14.33.19.png]]
 
-##### Inne Informacje:
->Logowanie do strony prowadzącego:
- - Logowanie poprzez Sigmę
- - - -
+# Wstęp do Programowania - Wykłady
 
-## Spis treści:
+## Program
+
+- Nauka języka **C**
+
+## Dodatkowe informacje
+
+- Strona prowadzącego (logowanie poprzez [Sigmę](Sigma))
+- Konsultacje poniedziałek 10:00-12:00 Online
+
+---
+
+## Notatki
+
 - [[Wstęp do Programowania - W 1]]
 - [[Wstęp do Programowania - W 2]]
 - [[Wstęp do Programowania - W 3]]
