@@ -11,7 +11,7 @@ type:
 
 ## Dodatkowe informacje
 
-- [Konto w sieci Wydziału MFI(SIGMA)](https://web.archive.org/web/20250906070810/https://mfi.ug.edu.pl/sigma-faq)
+- [Konto w sieci Wydziału MFI (SIGMA)](Sigma)
 - [Strona prowadzącego gr. 1 i 2](https://inf.ug.edu.pl/~lkuszner/)
 - [Strona prowadzącego gr. 3](https://inf.ug.edu.pl/~rziemann)
 
