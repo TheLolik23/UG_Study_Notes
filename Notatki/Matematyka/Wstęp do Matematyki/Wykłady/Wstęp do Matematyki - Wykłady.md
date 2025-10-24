@@ -1,29 +1,32 @@
 ---
-Date-Added: 2025-10-01T08:43:00
-Category:
-  - Math
-Professor: Jerzy Topp
-ECTS:
-MOC: "[[Matematyka Semestr I]]"
-type: root-note
-Page: http://unixlab.iis.pwsz.elblag.pl/~j.topp/?cat=2
+lesson_type: Wykład
+professor:
+  - dr hab. Jerzy Topp
+moc: "[[Wstęp do matematyki]]"
+type:
+  - Course Section MOC
 ---
 
-###### Uwagi:
+# Wstęp do Matematyki - Wykłady
 
-> Prowadzący nie udostępnia prezentacji!!!
+## Program
 
-## Program:
+- Rachunek zdań
+- Zbiory
+- Indukcja matematyczna i rekurencja
+- Funkcje
+- Relacje
+- Moce zbiorów
+- Algebra Boolea
 
-- Karta przedmiotu
+## Dodatkowe informacje
 
-## Wymagania:
-
--
+- [Strona prowadzącego](http://unixlab.iis.pwsz.elblag.pl/~j.topp/?cat=2)
+- **Prowadzący nie udostępnia prezentacji**
 
 ---
 
-### Spis treści:
+## Notatki
 
 - [[Wstęp do Matematyki - W 1]]
 - [[Wstęp do Matematyki - W 2]]

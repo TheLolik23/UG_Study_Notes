@@ -1,25 +1,30 @@
 ---
-Date-Added: 2025-10-07T14:15:00
-Category:
-  - Math
-Professor: Monika Rosicka
-ECTS:
-MOC: "[[Matematyka Semestr I]]"
+lesson_type: Ćwiczenia
+professor:
+  - dr hab. Jerzy Topp
+  - dr inż. Monika Rosicka
+moc: "[[Wstęp do matematyki]]"
 type:
-  - basic-note
-  - ćwiczenia
+  - Course Section MOC
 ---
 
-## Program:
+# Wstęp do Matematyki - Ćwiczenia
+
+## Program
+
  - Wstęp do matematyki prof. Jerzy Topp
-## Wymagania:
+ 
+## Zasady zaliczenia
+
 - Zaliczenie na podstawie niezapowiedzianych kartkówek (7 do 10 na semestr)
 - Plusy za aktywność + 10% do oceny
 - Praca domowa za dodatkowe punkty
 - Brak możliwości poprawy kartkówek
- - - -
-### Spis treści:
+
+---
+
+## Notatki
+
 - [[Wstęp do Matematyki - Ćw 1]]
 - [[Wstęp do Matematyki - Ćw 2]]
 - [[Wstęp do Matematyki - Ćw 3]]
-- [[Wstęp do Matematyki - Zadania]]
