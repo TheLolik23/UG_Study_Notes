@@ -1,11 +1,13 @@
 ---
-Date-Added: 2025-10-16T08:30:00
-Category:
-  - English
-MOC: "[[Angielski Semestr 1]]"
-type: basic-note
+date: 2025-10-16
+tags:
+moc: "[[Angielski Semestr 1]]"
+type: Class Note
 ---
-## Temat: Write an essay about yours goals.
-- - -
 
+# Lektorat 16-10-2025
+
+## Topic: Write an essay about yours goals.
+
+---
 

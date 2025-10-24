@@ -1,12 +1,16 @@
 ---
-Date-Added: 2025-10-23T08:30:00
-Category:
-  - English
-MOC: "[[Angielski Semestr 1]]"
-type: basic-note
+date: 2025-10-23
+tags:
+moc: "[[Angielski Semestr 1]]"
+type: Class Note
 ---
-## Temat: 
-- - -
+
+# Lektorat 23-10-2025
+
+## Topic: 
+
+---
+
 EX. 5C
 1. But for my teacher’s advice on revising, I wouldn't have passed the exam  with flying colours.
 2. If it weren' t for my brother's daily encouragement, i wouldn't still be on this course.

@@ -1,12 +1,16 @@
 ---
-Date-Added: 2025-10-14T08:36:00
-Category:
-  - English
-MOC: "[[Angielski Semestr 1]]"
-type: basic-note
+date: 2025-10-14
+tags:
+moc: "[[Angielski Semestr 1]]"
+type: Class Note
 ---
+
+# Lektorat 14-10-2025
+
 ## Topic: Goals
-- - -
+
+---
+
 #### Speaking:
 Audio -> awesome
 effects -> FX

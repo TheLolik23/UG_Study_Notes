@@ -12,7 +12,9 @@ type: Course MOC
 
 ## Zasady zaliczenia
 
-- 
+| Sposób oceniania | Próg zaliczenia | Składowa |
+| ---------------- | --------------- | -------- |
+|                  |                 |          |
 
 ## Formy zajęć
 

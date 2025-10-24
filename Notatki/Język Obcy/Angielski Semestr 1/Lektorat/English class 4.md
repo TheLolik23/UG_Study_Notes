@@ -1,12 +1,15 @@
 ---
-Date-Added: 2025-10-21T08:30:00
-Category:
-  - English
-MOC: "[[Angielski Semestr 1]]"
-type: basic-note
+date: 2025-10-21
+tags:
+moc: "[[Angielski Semestr 1]]"
+type: Class Note
 ---
-## Temat: Conditionals
-- - -
+
+# Lektorat 21-10-2025
+
+## Topic: Conditionals
+
+---
 
 Ex. 5A
 1. But for - alternatives to if
