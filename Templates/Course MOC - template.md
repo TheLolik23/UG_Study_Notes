@@ -10,10 +10,6 @@ type: Course MOC
 
 # {{title}}
 
-## Program
-
-- 
-
 ## Zasady zaliczenia
 
 - 

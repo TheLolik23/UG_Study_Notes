@@ -1,11 +1,11 @@
 ---
 date:
 tags:
-moc: "[[]]"
+moc:
 type: Class Note
 ---
 
-# Wykład / Ćwiczenia {{date}}
+# Wykład / Ćwiczenia / Laboratoria / Lektorat {{date}}
 
 ## Temat:
 
