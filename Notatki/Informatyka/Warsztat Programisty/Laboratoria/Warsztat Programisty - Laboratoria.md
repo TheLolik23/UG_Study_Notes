@@ -1,23 +1,24 @@
 ---
-Date-Added: 2025-10-07T12:29:00
-Category:
-  - IT
-Professor: mgr Radosław Ziemann
-ECTS:
-Page: inf.ug.edu.pl/~rziemann
-MOC: "[[Informatyka Semestr I]]"
-type: root-note
+lesson_type: Laboratoria
+professor:
+  - mgr Radosław Ziemann
+  - dr inż. Łukasz Kuszner
+moc: "[[Warsztat Programisty]]"
+type:
+  - Course Section MOC
 ---
-## Program:
- - 
-## Wymagania:
-###### Zadnie: Procent oceny końcowej
-- Sprawdziany 1 i 2 (pisane na kartkach): 30%
-- Projekt (2 etapy): 70%
-#### Konto w sieci Wydziału MFI(SIGMA):
-- L:sswiderski
-- H:ko4wohNg+e
-- - -
-### Spis treści:
+# Warsztat Programisty - Laboratoria
+
+## Dodatkowe informacje
+
+- [Konto w sieci Wydziału MFI(SIGMA)](https://web.archive.org/web/20250906070810/https://mfi.ug.edu.pl/sigma-faq)
+- [Strona prowadzącego gr. 1 i 2](https://inf.ug.edu.pl/~lkuszner/)
+- [Strona prowadzącego gr. 3](https://inf.ug.edu.pl/~rziemann)
+
+---
+
+## Notatki
+
 - [[Warsztat Programisty - Lab 1]]
 - [[Warsztat Programisty - Lab 2]]
+- [[Warsztat Programisty - Lab 3]]
