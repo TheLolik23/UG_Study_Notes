@@ -4,16 +4,12 @@ field_of_study:
 year: 1
 semester: 1
 ects: 2
-moc: "[[Informatyka Semestr I]]"
-type: Course MOC
 course_card: "[[pl-2025-2026-zimowy-warsztat-programisty-cw-laboratoryjne.pdf]]"
+moc: "[[Semestr 1]]"
+type: Course MOC
 ---
 
 # Warsztat Programisty
-
-## Program
-
--
 
 ## Zasady zaliczenia
 
