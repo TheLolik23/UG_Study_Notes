@@ -50,6 +50,12 @@ W zależności od tego czy planujecie uczestniczyć w tej inicjatywie biernie cz
 - Każda forma zajęć przedmiotu posiada MOC w której zawarte są informacje o prowadzącym, ewenetualncyh zasadach zaliczenia danych zajęć, oraz podlinkowane są notatki z zajęć
 - Przedmioty podlinkowane są w MOC danego semestru
 
+### Konwencje nazywania
+
+| Element | Konwencja nazewnictwa |
+| ------- | --------------------- |
+| Tagi    | CamelCase             |
+
 ### Jak dodawać notatki
 
 Jeśli stworzyliście jakieś nowe notatki to:
