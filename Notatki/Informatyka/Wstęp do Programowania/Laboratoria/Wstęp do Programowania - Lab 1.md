@@ -1,11 +1,16 @@
 ---
-Date-Added: 2025-10-13
-Category:
-  - IT
-MOC: "[[Wstęp do Programowania - Laboratoria - Old]]"
-type: basic-note
+date: 2025-10-13
+tags:
+  - JęzykC
+moc: "[[Wstęp do Programowania - Laboratoria]]"
+type: Class Note
 ---
-# Temat: Hello World - C
+
+# Laboratoria 13-10-2025
+
+## Temat: Hello World - C
+
+---
 
 1. Uruchom pierwszy program zgodnie z opisem 01_first.pdf.
 
@@ -31,7 +36,7 @@ type: basic-note
     }
     ```
 
-3. Na początku programu zadeklaruj zamienne w następujący sposób:  
+3. Na początku programu zadeklaruj zamienne w następujący sposób:
 
     ```C
     char *name1 = "Adrian";  

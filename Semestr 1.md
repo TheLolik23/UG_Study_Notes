@@ -10,4 +10,5 @@
 
 ## :LiTerminal: Informatyka:
 
-![[Informatyka Semestr I]]
+- [[Warsztat Programisty]]
+- [[Wstęp do Programowania]]

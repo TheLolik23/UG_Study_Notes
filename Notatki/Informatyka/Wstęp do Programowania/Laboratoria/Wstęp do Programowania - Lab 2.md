@@ -1,12 +1,17 @@
 ---
-Date-Added: 2025-10-20T10:06:00
-Category:
-  - IT
-MOC: "[[Wstęp do Programowania - Laboratoria]]"
-type: basic-note
+date: 2025-10-20
+tags:
+  - JęzykC
+moc: "[[Wstęp do Programowania - Laboratoria]]"
+type: Class Note
 ---
+
+# Laboratoria 20-10-2025
+
 ## Temat: Instrukcje Warunkowe, Operatory
-- - -
+
+---
+
 1. Napisz program, który wczyta dwie liczby naturalne a i b oraz wyświetli informację o ich iloczynie, sumie oraz różnicy.
  ```C title:zad1.c
  #include <stdio.h>  
