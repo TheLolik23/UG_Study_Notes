@@ -9,8 +9,8 @@
 
 ## :LiCalendar: Nadchodzące wydarzenia
 
-- 12 października - zapisy na WF?
-- Zmiany w planie Analiza Matematyczna - Listopad?
+- [ ] 2025-11-01 - Matematyka dyskretna ćwiczenia - zaliczenie
+- [ ] Listopad? - Zmiany w planie Analiza Matematyczna
 
 ## :LiListChecks: Lista rzeczy do zrobienia
 
