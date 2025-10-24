@@ -2,11 +2,13 @@
 
 ## :LiLanguages: Języki:
 
-![[Angielski Semestr 1]]
+- [[Angielski Semestr 1]]
 
 ## :LiDivide: Matematyka:
 
-![[Matematyka Semestr I]]
+- [[Analiza Matematyczna]]
+- [[Matematyka Dyskretna]]
+- [[Wstęp do matematyki]]
 
 ## :LiTerminal: Informatyka:
 
