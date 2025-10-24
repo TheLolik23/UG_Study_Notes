@@ -1,14 +1,21 @@
 ---
-Date-Added: 2025-10-09T12:15:00
-Category:
-  - Math
-Professor: dr inż. Magda Dettlaff
-ECTS:
-MOC: "[[Matematyka Semestr I]]"
-type: root-note
+lesson_type: Ćwiczenia
+professor:
+  - dr inż. Magda Dettlaff
+moc: "[[Analiza Matematyczna]]"
+type:
+  - Course Section MOC
 ---
-- - -
-### Spis treści:
+
+# Analiza Matematyczna - Ćwiczenia
+
+## Dodatkowe informacje
+
+- Zespół Teams - `241qplx`
+
+---
+
+## Notatki
 - [[Analiza Matematyczna - Ćw 1]]
 - [[Analiza Matematyczna - Ćw 2]]
 - [[Analiza Matematyczna - Ćw 3]]
