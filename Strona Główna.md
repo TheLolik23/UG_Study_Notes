@@ -2,16 +2,15 @@
 
 ## :LiBookmark: Ważne informacje
 
+- [Konto w sieci Wydziału MFI (SIGMA)](Sigma)
+- [Obecny plan zajęć](https://inf.ug.edu.pl/plan/?grupa=1I)
+- [Dysk na zdjęcia z zajęć](https://drive.google.com/drive/folders/1qF7yvOXIvdyynQtl51JkuuojhaVy1fqX?usp=drive_link)
+- [Program studiów](inf-i-s-program-nabor-2025-2026xls.pdf)
+
+## :LiCalendar: Nadchodzące wydarzenia
+
 - 12 października - zapisy na WF?
 - Zmiany w planie Analiza Matematyczna - Listopad?
-
-## :LiMap: [Obecny plan zajęć](https://inf.ug.edu.pl/plan/?grupa=1I)
-
-## :LiDatabase: [Dysk na zdjęcia z zajęć](https://drive.google.com/drive/folders/1qF7yvOXIvdyynQtl51JkuuojhaVy1fqX?usp=drive_link)
-
-## :LiSheet: Program studiów
-
-[[inf-i-s-program-nabor-2025-2026xls.pdf]]
 
 ## :LiListChecks: Lista rzeczy do zrobienia
 
